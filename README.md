@@ -1,5 +1,7 @@
 # hsdev
 
+[![Join the chat at https://gitter.im/mvoidex/hsdev](https://badges.gitter.im/mvoidex/hsdev.svg)](https://gitter.im/mvoidex/hsdev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Hackage version](https://img.shields.io/hackage/v/hsdev.svg?style=flat)](http://hackage.haskell.org/package/hsdev) [![Build Status](https://travis-ci.org/mvoidex/hsdev.png)](https://travis-ci.org/mvoidex/hsdev)[![PayPal][paypal-donate-image]][paypal-donate-link]
 
 [paypal-donate-image]: https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif
